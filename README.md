@@ -6,6 +6,6 @@ This uses the Google Translate Ajax API to make calls to such methods as detect 
 
 # Requirements:-
 
-'''
+```
 pip install googletrans
-'''
+```
